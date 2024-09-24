@@ -13,3 +13,8 @@ https://github.com/cnoe-io
 
 ## Automotive
 https://aws.amazon.com/solutions/guidance/autonomous-driving-data-framework-on-aws/
+
+## Observability
+https://thenewstack.io/monitoring-methodologies-red-and-use/
+https://grafana.com/blog/2018/08/02/the-red-method-how-to-instrument-your-services/
+https://www.splunk.com/en_us/blog/learn/red-monitoring.html
