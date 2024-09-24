@@ -1,5 +1,8 @@
 # mlops-architect-essentials
 
+## What Is the Difference Between CPU vs. GPU vs. TPU? (Complete Overview)
+https://premioinc.com/blogs/blog/what-is-the-difference-between-cpu-vs-gpu-vs-tpu-complete-overview
+
 ## EKS
 https://aws.github.io/aws-eks-best-practices/
 https://github.com/awslabs/mountpoint-s3
