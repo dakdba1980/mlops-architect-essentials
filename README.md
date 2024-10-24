@@ -22,3 +22,6 @@ https://thenewstack.io/monitoring-methodologies-red-and-use/
 https://grafana.com/blog/2018/08/02/the-red-method-how-to-instrument-your-services/
 
 https://www.splunk.com/en_us/blog/learn/red-monitoring.html
+
+## tools
+https://github.com/kserve/kserve
