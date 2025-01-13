@@ -27,3 +27,6 @@ https://www.splunk.com/en_us/blog/learn/red-monitoring.html
 https://github.com/kserve/kserve
 
 https://www.runpod.io/
+
+## cpu vs gpu vs tpu vs npu
+https://www.seeedstudio.com/blog/2024/08/12/cpu-vs-gpu-vs-tpu-vs-npu/?srsltid=AfmBOoot3JzIFda1SfJHP42sxUH4gCq8ej57TLd6p_yJHZQ5xWhbnLgI
