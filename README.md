@@ -30,3 +30,36 @@ https://www.runpod.io/
 
 ## cpu vs gpu vs tpu vs npu
 https://www.seeedstudio.com/blog/2024/08/12/cpu-vs-gpu-vs-tpu-vs-npu/?srsltid=AfmBOoot3JzIFda1SfJHP42sxUH4gCq8ej57TLd6p_yJHZQ5xWhbnLgI
+
+## mlops tools
+
+https://www.langchain.com/
+https://www.llamaindex.ai/
+https://www.run.ai/
+airflow
+mlflow
+kubeflow
+comet.ml
+palantir
+SageMaker
+TensorFlow
+PyTorch
+
+Model Training
+Model Versioning
+Model Serving
+Feature Store - FEAST
+Model Registry
+Dataset Versioning - DVC
+code versioning - Git
+Model Versioning - Mlflow
+Model Monitoring - Premetheus, Grafana, ELK
+Vector Databases - Milvus
+Graph Databases - Neo4j, Azure CosmosDB, Amazonon NeptuneDB
+Cloudflare - Vectorize
+Databricks
+
+dataops
+llmops
+mlops
+devops
